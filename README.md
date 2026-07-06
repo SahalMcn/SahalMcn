@@ -55,7 +55,7 @@ A complete e-commerce ecosystem built from the ground up.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahalMcn&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SahalMcn&show_icons=true&theme=radium&hide_border=true&v=1" alt="GitHub Stats" />
 </div>
 
 <br/>
